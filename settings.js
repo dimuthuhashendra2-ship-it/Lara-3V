@@ -9,7 +9,7 @@ SESSION_ID: process.env.SESSION_ID || "DZJCDaZS#-uo0ZPAdIXkc23BcjCnRNyPn_5W7KNyh
 PREFIX: process.env.PREFIX || ".",
 MODE: process.env.MODE || "public",  //public | private | inbox | group
 OWNER_NUMBER: process.env.OWNER_NUMBER || "94742563284",
-DEV: process.env.DEV || "94779062397",
+DEV: process.env.DEV || "94742563284",
 LANG: process.env.LANG || "EN", // EN | SI
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
